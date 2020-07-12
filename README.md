@@ -64,4 +64,7 @@ Furthermore, We were surprised to see that some runners achieved their best reco
 We think that if we have more information for example height,weight etc we could reach a higher precision.
 Another insight we amazed to see is that a very large number of runners belong to USA nationality on the contrary from what we thought.
 
+##### Made by 
+
+[Dvir](https://github.com/dt170) and [Shlomy](https://github.com/ShlomyYosef)
 
