@@ -16,6 +16,43 @@ We could see a clear relation between the age of the runner to his abilities, ho
 we were amazed to see that some runners set their record in a very young/old age (while looking at the outliers).
 So for our questions above we looked at the runner proggress and by using Mechine Learning we could predict if the runner is going to set a new best record. 
 
-### Steps 
+### Data Science Life Cycle
 
+<img src=https://github.com/dt170/Runners/blob/master/datacycle.png>
+
+### Our Steps
+
+#### Business Discovery: 
+We discovered that the 100 meter is one of the most popular and prestigious events in the sport of athletics 
+and chose this subject to be out project. 
+
+#### Data Discovery:
+After a long research we found [World Athletics](https://www.worldathletics.org/) website to suit our project the most. 
+we had to use a crawller and selenium to get the needed information.
+
+* Collect data from web pages.
+* Download all personal pages of the runners in the dataframe. 
+
+#### Data Preparation:
+After the data was acquired we had to clean it and check for data integrity. 
+* Checking data integrity (U20, df_Senior, progress_df).
+* Handling Nan values.
+* Adding information column to the dataframe(U20, df_Senior, progress_df).
+* Save Data to csv.
+
+#### Exploratory Analysis
+Further information is in the Data Analyze page, we wrote a detailed explanation on our analysis.
+* Open the csv files and save them to pd
+* Analyze Senior DATA
+* Conclusion Seniors
+* Analyze U20 DATA
+* Conclusion U20 DATA
+
+#### Feature Engineering & Predictive Modeling
+Our feature engineering was implemented on the progress data frame(df_progress).
+We decided to use the following Mechine Learning to answer out questions. 
+
+* Decision Tree
+* GaussianNB
+* KNeighborsClassifier
 
