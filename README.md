@@ -56,3 +56,12 @@ We decided to use the following Mechine Learning to answer out questions.
 * GaussianNB
 * KNeighborsClassifier
 
+#### Conclusion
+
+We think one of the main conclusion on this project was, that with the right information we can predicit if a runner record yet to come indeed its not 
+perfect prediction, but with the little information we had and with our analyzation we succeeded to get 84 precision.
+Furthermore, We were surprised to see that some runners achieved their best record on a very young/old age.
+We think that if we have more information for example height,weight etc we could reach a higher precision.
+Another insight we amazed to see is that a very large number of runners belong to USA nationality on the contrary from what we thought.
+
+
