@@ -6,7 +6,7 @@ The 100 metres, or 100-metre dash, is a sprint race in track and field competiti
 The shortest common outdoor running distance, it is one of the most popular and prestigious events in the sport of athletics. 
 In our project collected more the 1000 runners seniors and young, Analzyed their data in order to understand if we can predict this. 
 
-#### Can we predict if a runner record yet to come ?  , Did he reached his top of his game ?
+#### Can we predict if a runner record yet to come? Did he reached his top of his game ?
 
 ### Abstract 
 
